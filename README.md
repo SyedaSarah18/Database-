@@ -24,7 +24,6 @@ The deck editor screen allows the user to change the selected deck’s title. Sa
 #### Card list
 
 The card list page is displayed after selecting a deck, and shows a scrollable view of all the cards in the associated deck, identified by their “question” fields. 
-
 Tapping on a card navigates to the card editor page.
 
 #### Card editor
