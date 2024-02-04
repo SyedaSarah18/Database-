@@ -3,7 +3,7 @@
 
 ## Overview
 
-Implemented a multi-page application that allows users to create, edit, and manage decks of two-sided flashcards (with nominal “questions” and “answers” on the two sides), and to run quizzes using cards drawn from a chosen deck. 
+Implemented a multi-page **application** that allows users to create, edit, and manage decks of two-sided flashcards (with nominal “questions” and “answers” on the two sides), and to run quizzes using cards drawn from a chosen deck. 
 
 Deck and flashcard information will be persisted to a local ** database created using SQLite**, and the user interface is responsive to changes in screen size.
 
